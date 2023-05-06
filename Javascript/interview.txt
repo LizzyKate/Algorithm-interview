@@ -1,0 +1,99 @@
+What is JavaScript?
+What are the differences between JavaScript and Java?
+What are the differences between JavaScript and ECMAScript?
+What are the different data types in JavaScript?
+What is the difference between null and undefined in JavaScript?
+What is the difference between == and === in JavaScript?
+What are closures in JavaScript?
+How do you declare a variable in JavaScript?
+What are the different types of loops in JavaScript?
+What is the difference between for and forEach loop in JavaScript?
+What is hoisting in JavaScript?
+What is event bubbling in JavaScript?
+What is event capturing in JavaScript?
+What is the difference between window.onload and $(document).ready()?
+What is the use of isNaN function in JavaScript?
+What is the use of isFinite function in JavaScript?
+What is the use of parseInt function in JavaScript?
+What is the use of parseFloat function in JavaScript?
+What is the use of typeof operator in JavaScript?
+What is the use of this keyword in JavaScript?
+What is the difference between call and apply methods in JavaScript?
+What is the difference between bind and call methods in JavaScript?
+What are the different ways to create an object in JavaScript?
+What is the use of the delete operator in JavaScript?
+What is the use of the void operator in JavaScript?
+What is the difference between slice and splice methods in JavaScript?
+What is the use of push and pop methods in JavaScript?
+What is the use of shift and unshift methods in JavaScript?
+What is the use of concat method in JavaScript?
+What is the use of join method in JavaScript?
+What is the use of sort method in JavaScript?
+What is the use of reverse method in JavaScript?
+What is the use of map method in JavaScript?
+What is the use of filter method in JavaScript?
+What is the use of reduce method in JavaScript?
+What is the use of some method in JavaScript?
+What is the use of every method in JavaScript?
+What is the use of find method in JavaScript?
+What is the use of findIndex method in JavaScript?
+What is the use of includes method in JavaScript?
+What is the use of Promise in JavaScript?
+What is the use of async/await in JavaScript?
+What is the use of try...catch block in JavaScript?
+What is the use of throw statement in JavaScript?
+What is the use of finally block in JavaScript?
+What is the use of setTimeout function in JavaScript?
+What is the use of setInterval function in JavaScript?
+What is the use of requestAnimationFrame function in JavaScript?
+What is the use of event.preventDefault method in JavaScript?
+What is the use of event.stopPropagation method in JavaScript?
+What is the use of addEventListener method in JavaScript?
+What is the use of removeEventListener method in JavaScript?
+What is the use of document.getElementById method in JavaScript?
+What is the use of document.createElement method in JavaScript?
+What is the use of document.querySelector method in JavaScript?
+What is the use of document.querySelectorAll method in JavaScript?
+What is the use of document.write method in JavaScript?
+What is the use of innerHTML property in JavaScript?
+What is the use of outerHTML property in JavaScript?
+What is the use of innerText property in JavaScript?
+What is the use of textContent property in JavaScript?
+What is the use of parentNode property in JavaScript?
+What is the difference between local and global variables in JavaScript?
+What is the use of the let keyword in JavaScript?
+What is the use of the const keyword in JavaScript?
+What is a callback function in JavaScript?
+What is a higher-order function in JavaScript?
+What is the use of the bind method in JavaScript?
+What is the use of the arrow function in JavaScript?
+What is the use of the spread operator in JavaScript?
+What is the use of the rest operator in JavaScript?
+What is the use of destructuring in JavaScript?
+What is a template literal in JavaScript?
+What is the use of the template literal tag in JavaScript?
+What is a closure in JavaScript, and how does it work?
+What is the difference between asynchronous and synchronous code in JavaScript?
+What is the event loop in JavaScript?
+What is a promise chain in JavaScript?
+What is a race condition in JavaScript?
+What is the use of the fetch API in JavaScript?
+What is the use of the XMLHttpRequest object in JavaScript?
+What is a CORS error in JavaScript, and how can it be fixed?
+What is the use of the try...catch...finally statement in JavaScript?
+What is a callback hell in JavaScript, and how can it be avoided?
+What is the use of the window object in JavaScript?
+What is the use of the history object in JavaScript?
+What is the use of the location object in JavaScript?
+What is the use of the navigator object in JavaScript?
+What is the use of the screen object in JavaScript?
+What is a cookie in JavaScript?
+What is a session in JavaScript?
+What is the use of the Date object in JavaScript?
+What is the use of the Math object in JavaScript?
+What is the use of the JSON object in JavaScript?
+What is the use of the RegExp object in JavaScript?
+What is a regular expression in JavaScript?
+What is a closure scope in JavaScript?
+What is the use of the try...catch statement in JavaScript?
+What is the use of the switch statement in JavaScript?

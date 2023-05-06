@@ -1,0 +1,101 @@
+What is React? How is it different from other front-end frameworks?
+What are the benefits of using React for building web applications?
+What is JSX? How does it differ from HTML?
+What are the components in React? How do they work?
+How do you manage state in React?
+What is a React Virtual DOM? How does it work?
+What is the significance of keys in React lists?
+What are the lifecycle methods in React? How do they work?
+What is the purpose of the React router?
+What is Redux? How does it work with React?
+How does React handle events?
+What is the purpose of React Native? How is it different from React?
+How do you debug a React application?
+What is server-side rendering in React?
+What are some common performance optimization techniques in React?
+What are React hooks? How do they work?
+What are the differences between a functional component and a class component in React?
+What are React portals?
+How do you handle errors in React?
+How do you test a React application?
+What is the significance of React Fiber?
+What is the difference between controlled and uncontrolled components in React?
+What is the purpose of React Context? How does it work?
+How do you optimize performance in a React application?
+What is the difference between props and state in React?
+What is the purpose of higher-order components in React?
+How does React handle forms?
+What are the different types of components in React?
+What is the purpose of the shouldComponentUpdate method?
+What are the differences between React and Angular?
+What is the purpose of the componentDidMount method in React?
+How does React handle conditional rendering?
+What is the difference between a functional component and a pure component in React?
+How do you handle user authentication in a React application?
+What is the significance of the useCallback hook in React?
+How do you handle HTTP requests in a React application?
+What is the significance of the useState hook in React?
+How does React handle state management?
+What is the purpose of the componentDidUpdate method in React?
+What is the difference between server-side rendering and client-side rendering in React?
+How do you handle performance issues related to React rendering?
+What is the difference between React and Vue.js?
+How do you handle routing in a React application?
+What is the significance of the useMemo hook in React?
+What is the difference between shallow rendering and full rendering in React?
+How do you handle global state in a React application?
+What is the purpose of the React strict mode?
+What is the significance of the useEffect hook in React?
+How do you handle authentication and authorization in a React application?
+How do you handle data fetching in a React application?
+What is the difference between Redux and MobX?
+What is the significance of the useReducer hook in React?
+What is the purpose of the React Developer Tools?
+How do you handle server-side rendering in a React application?
+How do you handle styling in a React application?
+What is the significance of the useContext hook in React?
+How do you handle localization in a React application?
+What is the difference between React and jQuery?
+How do you handle deployment of a React application?
+What is the significance of the useLayoutEffect hook in React?
+What is the difference between React and Ember.js?
+What is the significance of the useRef hook in React?
+How do you handle pagination in a React application?
+What is the purpose of the React.StrictMode component?
+What is the difference between React and Backbone.js?
+How do you handle error boundaries in a React application?
+What is the significance of the useImperativeHandle hook in React?
+How do you handle lazy loading in a React application?
+What is the difference between React and Knockout.js?
+What is the significance of the useDebugValue hook in React?
+How do you handle animation in a React application?
+What is the difference between React and Polymer?
+What is the significance of the useTransition hook in React?
+How do you handle testing in a React application?
+What is the difference between React and Svelte?
+What is the significance of the useLayout hook in React?
+How do you handle user interface design in a React application?
+What is the difference between React and Mithril?
+What is the significance of the useMutableSource hook in React?
+How do you handle form validation in a React application?
+What is the difference between React and Aurelia?
+What is the significance of the useErrorBoundary hook in React?
+How do you handle file uploads in a React application?
+What is the difference between React and Riot.js?
+What is the significance of the useDeferredValue hook in React?
+How do you handle security in a React application?
+What is the difference between React and Cycle.js?
+What is the significance of the useIntersectionObserver hook in React?
+How do you handle accessibility in a React application?
+What is the difference between React and Backbone.Marionette?
+What is the significance of the useEvent hook in React?
+How do you handle server-side rendering with Node.js in a React application?
+What is the difference between React and AngularJS?
+What is the significance of the useTransition hook in React?
+How do you handle responsive design in a React application?
+What is the difference between React and Ember.js?
+What is the significance of the useDeferredValue hook in React?
+How do you handle internationalization in a React application?
+What is the difference between React and Backbone.Radio?
+What is the significance of the useTransition hook in React?
+

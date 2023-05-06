@@ -1,0 +1,99 @@
+What is the difference between HTML and XHTML?
+What is the difference between HTML and HTML5?
+What is the difference between a class and an ID in CSS?
+How would you use media queries in CSS?
+How do you center an element in CSS?
+What is the box model in CSS?
+How do you clear floats in CSS?
+What is the difference between a block-level element and an inline element in HTML?
+What is the difference between relative and absolute positioning in CSS?
+What is the difference between padding and margin in CSS?
+What is the difference between em and rem in CSS?
+What is the difference between a web app and a website?
+What is the difference between HTTP and HTTPS?
+What is the difference between cookies, session storage, and local storage?
+What is the difference between responsive and adaptive design?
+What is a viewport in a mobile device?
+What is the difference between a web font and a system font?
+What is a favicon and how is it implemented?
+How would you optimize a website's performance?
+What is lazy loading?
+What is the purpose of a doctype in HTML?
+What is a data attribute in HTML?
+What is the difference between the script tag and the link tag in HTML?
+What is a CSS preprocessor?
+What is the difference between SASS and SCSS?
+What is a CSS framework and how would you use it?
+What is a CSS reset?
+What is the difference between a web page and a web application?
+What is the purpose of the alt attribute in HTML?
+What is the purpose of the title attribute in HTML?
+How would you use the lang attribute in HTML?
+What is semantic HTML?
+What is a selector in CSS?
+What is the purpose of the !important rule in CSS?
+What is the difference between the border-box and content-box values for the box-sizing property in CSS?
+What is a pseudo-class in CSS?
+What is a pseudo-element in CSS?
+What is the difference between the display:none and visibility:hidden properties in CSS?
+How would you implement a sticky footer in CSS?
+What is the difference between the :nth-child() and :nth-of-type() pseudo-classes in CSS?
+What is the difference between a child selector and a descendant selector in CSS?
+How would you implement a responsive design?
+What is the purpose of the meta viewport tag in HTML?
+What is a responsive image and how would you implement it?
+What is the difference between a GET request and a POST request?
+What is the purpose of the type attribute in a script tag?
+What is the purpose of the rel attribute in a link tag?
+How would you implement a mobile menu?
+What is the difference between a flexbox layout and a grid layout in CSS?
+What is the purpose of the CSS clip property?
+What is the difference between the max-width and min-width media queries in CSS?
+What is the purpose of the CSS transform property?
+What is the purpose of the CSS transition property?
+What is the purpose of the CSS animation property?
+What is the purpose of the CSS filter property?
+How would you implement a parallax effect in CSS?
+What is the purpose of the srcset attribute in an img tag?
+What is the purpose of the sizes attribute in an img tag?
+What is the difference between a block element and an inline element in CSS?
+What is the purpose of the text-transform property in CSS?
+What is the purpose of the box-shadow property in CSS?
+What is the purpose of the border-radius property in CSS?
+What is the purpose of the z-index property in CSS?
+What is the purpose of the position property in CSS?
+What is the difference between responsive design and mobile-first design?
+What is the purpose of the label tag in HTML?
+How would you create a responsive layout using CSS Grid?
+What is the purpose of the @media rule in CSS?
+What is the purpose of the CSS calc() function?
+What is the purpose of the CSS variable?
+What is the difference between an inline-block element and a block element in CSS?
+What is the difference between a font-size and a font-weight in CSS?
+What is the difference between a theme and a template in web development?
+What is the purpose of the link tag in HTML?
+How would you optimize images for web?
+What is the difference between a cookie and a session?
+What is the difference between a form and a fieldset in HTML?
+What is the purpose of the accesskey attribute in HTML?
+What is the purpose of the tabindex attribute in HTML?
+What is the difference between a website and a web portal?
+What is the difference between a web page and a landing page?
+What is the difference between an article and a blog post in HTML?
+What is the purpose of the HTML lang attribute?
+What is the purpose of the target attribute in HTML?
+How would you implement responsive typography?
+What is the purpose of the CSS overflow property?
+What is the difference between a pseudo-class and a pseudo-element in CSS?
+What is the purpose of the HTML5 canvas element?
+What is the purpose of the HTML5 video element?
+What is the purpose of the HTML5 audio element?
+What is the purpose of the source element in HTML5 media elements?
+What is the difference between the src attribute and the data-src attribute in HTML?
+What is the difference between an image map and a regular image in HTML?
+What is the purpose of the noscript tag in HTML?
+How would you implement responsive tables?
+What is the purpose of the outline property in CSS?
+What is the purpose of the CSS counter property?
+What is the difference between a link and a button in HTML?
+What is the purpose of the aria attribute in HTML?

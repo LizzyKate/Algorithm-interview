@@ -1,0 +1,113 @@
+How does HTTP work?
+Explain the difference between a stack and a queue.
+What is a closure in JavaScript?
+How does garbage collection work in programming languages?
+What is the difference between static and dynamic typing?
+Explain the concept of inheritance in object-oriented programming.
+What is the difference between a thread and a process?
+How does an operating system manage memory?
+What is a linked list, and how does it differ from an array?
+What is the difference between synchronous and asynchronous programming?
+Explain the concept of polymorphism in object-oriented programming.
+What is recursion, and when would you use it?
+How does a database work, and what are the different types of databases?
+What is a hash table, and how does it work?
+What is a binary tree, and what operations can you perform on it?
+How does encryption work?
+What is a regular expression, and how would you use it in programming?
+What is the difference between a function and a method?
+How do you optimize code for performance?
+What is the difference between a compiler and an interpreter?
+Explain the concept of concurrency in programming.
+What is a semaphore, and how does it work?
+What is the difference between a mutex and a semaphore?
+What is a deadlock, and how do you prevent it?
+What is an API, and how would you use it in your application?
+Explain the concept of RESTful APIs.
+What is the difference between SOAP and RESTful APIs?
+What is a callback, and how do you use it in JavaScript?
+Explain the concept of a promise in JavaScript.
+What is the difference between a promise and a callback?
+How would you handle errors in your code?
+What is the difference between a unit test and an integration test?
+What is test-driven development, and how would you use it in your code?
+What is agile development, and how would you use it in your team?
+What is a design pattern, and how do you use them in your code?
+Explain the concept of SOLID principles in object-oriented programming.
+What is the difference between a class and an interface?
+Explain the concept of version control, and how would you use it in your team?
+What is the difference between Git and SVN?
+What is continuous integration, and how would you use it in your team?
+What is continuous delivery, and how would you use it in your team?
+What is the difference between continuous integration and continuous delivery?
+What is a microservice, and how would you use it in your architecture?
+Explain the concept of containerization, and how would you use it in your team?
+What is the difference between Docker and Kubernetes?
+What is a virtual machine, and how does it differ from a container?
+What is serverless architecture, and how would you use it in your application?
+What is a distributed system, and how would you design one?
+What is the difference between eventual consistency and strong consistency?
+How do you implement a binary search algorithm?
+Can you explain the difference between a static and a dynamic programming language?
+How do you implement concurrency in your code?
+Can you explain the concept of parallelism?
+What is the difference between a stack trace and a core dump?
+How do you approach software architecture and design?
+What is the difference between a monolithic and a microservices architecture?
+Can you explain the concept of domain-driven design (DDD)?
+How do you approach API design?
+How do you approach code review?
+Can you explain the difference between agile and waterfall development methodologies?
+How do you approach project management?
+Can you explain the concept of software development life cycle (SDLC)?
+How do you approach software documentation?
+What is the difference between a technical specification and a functional specification?
+How do you approach software requirements gathering?
+Can you explain the concept of user stories?
+What is the difference between a use case and a user story?
+How do you approach web accessibility?
+Can you explain the concept of search engine optimization (SEO)?
+What is the difference between white hat and black hat SEO?
+What is the difference between a dashboard and a report?
+How do you handle authentication and authorization in your web applications?
+What is the difference between object-oriented programming and functional programming?
+How do you handle security in your web applications?
+How do you handle scaling issues in your web applications?
+How do you handle real-time communication in your web applications?
+What is the difference between a shell and a terminal?
+Can you explain what a web server is and how it works?
+How do you handle load balancing in your web applications?
+What is the difference between a serverless and a traditional server-based architecture?
+Can you explain what a Docker container is and how it works?
+How do you handle code deployment in your projects?
+What is the difference between a binary tree and a binary search tree?
+Can you explain the difference between a tree and a graph?
+What is the difference between a hash table and a binary search tree?
+Can you explain the difference between a heap and a stack?
+Can you explain the difference between a directed graph and an undirected graph?
+Can you explain the difference between an abstract class and an interface?
+How do you optimize the memory usage of an application?
+What is the difference between a stack overflow and a segmentation fault?
+How do you handle race conditions in your code?
+Can you explain the difference between a bubble sort and a quicksort?
+How do you optimize a website or web application for search engines?
+How do you handle data structures that are too large to fit in memory?
+Can you explain the difference between a linked list and a double linked list?
+What is the difference between a TCP and a UDP protocol?
+Can you explain the concept of a stack frame?
+How do you handle cross-site scripting (XSS) attacks in your code?
+How do you handle buffer overflows in your code?
+How do you optimize a network for a web application?
+Can you explain the concept of a CDN?
+How do you handle data encryption in your code?
+How do you handle internationalization and localization in your web application?
+Can you explain the concept of a web socket?
+What is the difference between TCP/IP and OSI model?
+How do you handle data backups and disaster recovery in your web application?
+Can you explain the concept of a reverse proxy?
+What is the difference between a black box and a white box testing?
+How do you handle security vulnerabilities in your code?
+How do you handle memory allocation in your code?
+What is the difference between a session and a cookie?
+How do you handle cross-site request forgery (CSRF) attacks in your web application?
+How do you handle versioning and backward compatibility in your API?

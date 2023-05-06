@@ -1,0 +1,99 @@
+What are the latest trends in frontend development?
+What are the differences between responsive and adaptive design?
+How do you optimize website performance?
+What is your experience with JavaScript frameworks?
+What are some common CSS issues that you have encountered and how did you solve them?
+How do you debug JavaScript code?
+What is the purpose of a doctype in HTML?
+What is the box model in CSS?
+How do you handle browser compatibility issues?
+What is a RESTful API?
+How do you optimize images for web?
+What are the pros and cons of using a CSS preprocessor?
+How do you implement accessibility in your designs?
+What is the difference between GET and POST methods?
+How do you handle cross-site scripting (XSS) attacks?
+How do you implement lazy loading for images?
+What is your experience with React?
+What is the difference between HTML and XHTML?
+What is the purpose of the alt attribute in images?
+How do you handle errors in JavaScript?
+What is the difference between inline and block elements in HTML?
+How do you implement responsive design?
+What is the difference between cookies and local storage?
+What is your experience with CSS frameworks?
+How do you optimize website accessibility for users with disabilities?
+What is the purpose of the title attribute in HTML?
+What is your experience with CSS animations?
+What is the purpose of the rel attribute in HTML?
+How do you handle multiple asynchronous requests in JavaScript?
+What is the difference between margin and padding in CSS?
+What is the difference between synchronous and asynchronous programming?
+How do you implement server-side rendering in React?
+What is the purpose of the target attribute in HTML?
+How do you optimize website loading speed?
+What is your experience with CSS preprocessors like Sass or Less?
+What is the difference between an ID and a class in CSS?
+How do you implement a responsive menu?
+What is your experience with GraphQL?
+What is the difference between a relative and an absolute URL?
+How do you handle form validation in HTML and JavaScript?
+What is the purpose of the meta tag in HTML?
+What is your experience with Vue.js?
+How do you handle SEO optimization for a website?
+What is the difference between a session and a cookie?
+How do you implement infinite scrolling?
+What is your experience with Angular?
+What is the purpose of the input tag in HTML?
+How do you implement lazy loading for videos?
+What is the difference between a div and a span element in HTML?
+How do you handle responsive images?
+What is your experience with Webpack?
+What is the purpose of the script tag in HTML?
+How do you handle caching in HTTP?
+What is your experience with TypeScript?
+What is the difference between a web application and a website?
+How do you implement a responsive grid system?
+What is the difference between a monolithic and a microservices architecture?
+How do you handle 404 errors in a website?
+What is your experience with Next.js?
+How do you implement lazy loading for iframes?
+What is the difference between a HTTP and a HTTPS protocol?
+How do you implement animations with CSS?
+What is your experience with Nuxt.js?
+How do you handle responsive typography?
+What is the difference between a synchronous and an asynchronous request?
+What is the difference between a div and a span element in HTML?
+What is the purpose of the input tag in HTML?
+How do you handle caching in HTTP?
+What is your experience with TypeScript?
+What is the difference between a web application and a website?
+How do you implement a responsive grid system?
+What is the difference between a monolithic and a microservices architecture?
+How do you handle 404 errors in a website?
+What is your experience with Next.js?
+How do you implement lazy loading for iframes?
+What is the difference between a HTTP and a HTTPS protocol?
+How do you implement animations with CSS?
+What is your experience with Nuxt.js?
+How do you handle responsive typography?
+What is the difference between a synchronous and an asynchronous request?
+How do you implement pagination for a list of items?
+What is your experience with Gatsby.js?
+How do you handle website security issues?
+What is the difference between a static and a dynamic website?
+How do you implement a sticky footer?
+What is your experience with web accessibility testing tools?
+What is the difference between a cookie and a session storage?
+How do you handle cross-origin resource sharing (CORS) in JavaScript?
+What is the difference between a local and a global variable in JavaScript?
+How do you implement a custom 404 page?
+What is your experience with Adobe XD or Sketch?
+What is the difference between a layout and a template in HTML?
+How do you optimize website SEO for images and videos?
+What is the purpose of the srcset attribute in HTML?
+How do you handle lazy loading for background images?
+What is your experience with Git and version control?
+What is the difference between a git commit and a git push?
+How do you implement a smooth scrolling effect?
+What is the purpose of the label tag in HTML?
